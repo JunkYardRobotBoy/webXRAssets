@@ -1,0 +1,11 @@
+{
+	"JYRB": {
+		"version": 1,
+		"id": "JYRB",
+		"name": "1",
+		"kind": "Puppeteer",
+		"mood": null,
+		"postPlaybackMood": null,
+		"duration": 2.5
+	}
+}
